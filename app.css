@@ -4,7 +4,7 @@
     https://fonts.google.com/
     
   ----------------------------------------------------------------------- */
-  @import url(https://fonts.googleapis.com/css?family=Open+Sans:700,600,400,300);
+  @import url(https://fonts.google.com/specimen/IBM+Plex+Mono);
 
   /* --------------------------------------------------------------------
   
@@ -13,10 +13,10 @@
   
   ---------------------------------------------------------------------- */
   :root {
-      --color-lightest: #ffcdcd;
-      --color-light: #ee6c6c;
-      --color: #EC6565;
-      --color-dark: #ca4e4e;
+      --color-lightest: #ff0000;
+      --color-light: #ff36c6;
+      --color: #863bf7;
+      --color-dark: #0011ca;
       --font: "Open Sans", Helvetica, sans-serif;
   }
 
